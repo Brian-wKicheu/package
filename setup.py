@@ -7,6 +7,6 @@ setup(
     author= "Brian Kicheu",
     author_email= "test@gmail.com",
     description= "this is just a simple package",
-    url= "http://github.com/",
+    url= "https://github.com/",
     classifiers= ["Programming language : Python"]
 )
